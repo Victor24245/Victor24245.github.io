@@ -27,6 +27,8 @@ I'm a Linux Systems Administrator and Platform Engineer based in Nigeria, with a
 
 
 **My Journey into Tech**
+
+
 My path into technology wasn't traditional, but it's been driven by one thing: the urge to build a better future for myself and my family. That drive pushed me to dive deep into Linux, scripting, automation, and platform engineering. I got my start volunteering with my school's JETS club (Junior Engineers, Technicians and Scientists), where I discovered that I genuinely loved helping others understand technology.
 These days, I'm freelancing and sharpening my skills. I'm sitting for my **RHCSA** in April 2026, and I've already got my sights set on crushing the RHCE right after. My motto? "Not end of the week, end of the day." If something can be done today, why wait?
 
@@ -40,6 +42,7 @@ I hold my values in high esteem. Integrity, continuous learning, and helping oth
 
 
 **Beyond the Terminal**
+
 When I'm not deep in configs or writing scripts, you'll find me:
 
 - 🎮 Gaming...yeahhh, because even admins need to unwind
@@ -56,6 +59,7 @@ When I'm not deep in configs or writing scripts, you'll find me:
 
 
 **What You'll Find on This Blog**
+
 This is where I share what I'm learning, building, and breaking (and then fixing). Expect:
 
 Linux tutorials and tips - Real-world solutions to real problems
@@ -66,6 +70,7 @@ DevOps best practices - Lessons learned in the trenches
 Open source projects - Tools and utilities I'm building
 
 **Let's Connect!**
+
 I believe in the power of community and shared knowledge. Whether you're just starting out in Linux, preparing for your own certification, or you're a seasoned pro with some wisdom to share—I'd love to hear from you.
 Feel free to reach out through any of the social links, drop me an email, or just leave a comment on a post. Let's learn together!
 

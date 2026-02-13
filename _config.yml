@@ -1,9 +1,9 @@
 # Site Settings
 title: "My Tech Blog"
-subtitle: "A blog about coding, tech, and more"
-name: "Your Name"
+subtitle: "A blog about Linux, DevOps, and Platform Engineering"
+name: "Victor"
 description: "A technology blog covering programming, DevOps, and software development"
-url: "https://yourusername.github.io" # Change this to your GitHub Pages URL
+url: "https://Victor24245.github.io" # Change this to your GitHub Pages URL
 baseurl: "" # Leave empty for user pages, or "/repository-name" for project pages
 
 # Author Settings
@@ -20,7 +20,7 @@ author:
       url: "https://yourwebsite.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yourusername"
+      url: "https://twitter.com/De_Victor21"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Victor24245"
@@ -97,7 +97,7 @@ defaults:
 # SEO
 social:
   type: Person
-  name: "Your Name"
+  name: "Victor Okechukwu"
   links:
     - "https://twitter.com/De_Victor21"
     - "https://github.com/Victor24245"

@@ -8,13 +8,13 @@ baseurl: "" # Leave empty for user pages, or "/repository-name" for project page
 
 # Author Settings
 author:
-  name: "Your Name"
-  bio: "Software Developer | Tech Enthusiast | Blogger"
-  location: "Your Location"
+  name: "Victor Okechukwu"
+  bio: "Linux System Administrator"
+ # location: "Your Location"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.email@example.com"
+      url: "okechukwuvictor049@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://yourwebsite.com"
@@ -23,10 +23,10 @@ author:
       url: "https://twitter.com/yourusername"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/Victor24245"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://linkedin.com/in/okechukwuvictor001"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -99,8 +99,8 @@ social:
   type: Person
   name: "Your Name"
   links:
-    - "https://twitter.com/yourusername"
-    - "https://github.com/yourusername"
+    - "https://twitter.com/De_Victor21"
+    - "https://github.com/Victor24245"
 
 # Analytics (optional - uncomment and add your tracking ID)
 # google_analytics: "UA-XXXXXXXXX-X"
